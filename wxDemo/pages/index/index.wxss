@@ -1,0 +1,7 @@
+.window{
+    color: #49bb16;
+}
+
+.window-new{
+    color: #D23933;
+}
